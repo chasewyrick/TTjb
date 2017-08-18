@@ -11,17 +11,17 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/BlackGeekTutorial/TTjb/master/TTJailbreak.ipa</string>
+					<string>http://iapps4u.net/phoenix/phoenix.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.imokhles.ttjailbreak</string>
+				<string>com.phoenixpwn.phoenix</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>PPJailbreak nga iPhoneAlbania</string>
+				<string>PhoenixPwn</string>
 			</dict>
 		</dict>
 	</array>
